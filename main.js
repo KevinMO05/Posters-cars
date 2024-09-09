@@ -1,3 +1,4 @@
+// ================ MENU ADAPTABLE ================================
 const navMenu = document.getElementById('nav-menu'),
       navToggle = document.getElementById('nav-toggle'),
       navClose = document.getElementById('nav-close')
@@ -22,7 +23,6 @@ const navLink = document.querySelectorAll('.nav_link')
 
 const linkAction = () => {
     const navMenu = document.getElementById('nav-menu')
-    // When we click on each nav__link, we remove the show-menu class
     navMenu.classList.remove('show-menu')
 }
 

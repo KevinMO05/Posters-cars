@@ -130,7 +130,7 @@ img {
     overflow: hidden;
 }
 
-/* ================= ESTILOS PROPIOS ==================== */
+/* ================= ESTILOS PERSONALIZADOS ==================== */
 .nav_link {
     color: var(--title-color);
     font-weight: var(--font-semi-bold);
@@ -254,13 +254,6 @@ nav {
 
 
 
-
-
-  
-
-/*=============== HEADER & NAV ===============*/
-
-
 /* Navigation for mobile devices */
 
 @media screen and (max-width: 1150px) {
@@ -332,49 +325,3 @@ nav {
     right: 0;
 }
 
-
-
-/* Add blur header */
-
-
-/* Active link */
-
-
-/*=============== HOME ===============*/
-
-
-/*=============== BUTTON ===============*/
-
-
-/*=============== NEWS ===============*/
-
-
-/*=============== SHOP ===============*/
-
-
-/*=============== CARE ===============*/
-
-
-/*=============== CONTACT ===============*/
-
-
-/*=============== FOOTER ===============*/
-
-
-/*=============== SCROLL BAR ===============*/
-
-
-/*=============== SCROLL UP ===============*/
-
-
-/* Show Scroll Up */
-
-
-/*=============== BREAKPOINTS ===============*/
-/* For small devices */
-
-
-/* For medium devices */
-
-
-/* For large devices */
